@@ -18,3 +18,8 @@ for amd/intel devices, the default mcxcl is used.
 All benchmarking are using -A 3 -J '-D MCX_USE_NATIVE' option.
 
 Refer to mcxcl/example/benchmark/(ben1/ben2/ben2a)_native_pilot.sh
+
+The partition scheme is updated at the following google doc.
+```bash
+https://docs.google.com/spreadsheets/d/1dVv8wFjewthFfMeuXtT3qh0JBRWC0vQew4yKCiIT1jg/edit?usp=sharing
+```
